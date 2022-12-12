@@ -1,0 +1,23 @@
+#start{
+    display: inline-block;
+    background-color: green;
+    height: 50px;
+    width: 100px;
+    font-size: 25px;
+    color: white;
+}
+
+#reset{
+    display: inline-block;
+    background-color: blue;
+    height: 50px;
+    width: 100px;
+    font-size: 25px;
+    color: white;
+}
+#btn{
+    display: inline-block;
+    text-align: center;
+    margin-left: 45%;
+
+}
